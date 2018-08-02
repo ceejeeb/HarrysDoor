@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarrysDoor.UI", "HarrysDoor.UI\HarrysDoor.UI.csproj", "{8FB5DEB7-CE3D-42C2-85A9-6B80EA6325AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{7C1A9627-0D71-40D1-A9E0-0E762CC4E816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB5DEB7-CE3D-42C2-85A9-6B80EA6325AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB5DEB7-CE3D-42C2-85A9-6B80EA6325AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB5DEB7-CE3D-42C2-85A9-6B80EA6325AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB5DEB7-CE3D-42C2-85A9-6B80EA6325AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1A9627-0D71-40D1-A9E0-0E762CC4E816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1A9627-0D71-40D1-A9E0-0E762CC4E816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1A9627-0D71-40D1-A9E0-0E762CC4E816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1A9627-0D71-40D1-A9E0-0E762CC4E816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {848521A4-C5D4-4156-96E3-DD941B7516AF}
+	EndGlobalSection
+EndGlobal
